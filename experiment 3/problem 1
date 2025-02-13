@@ -30,5 +30,5 @@ public class SquareRootCalculator {
 
 
 output:
-Enter a number: 25
-Square root of 25.0 is: 5.0
+Enter a number: 144
+Square root of 144.0 is: 12.0
